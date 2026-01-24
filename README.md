@@ -1,0 +1,1 @@
+# SGP41---ESPhome-idle-mode
