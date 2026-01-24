@@ -1,5 +1,5 @@
 # SGP41 ESPhome IDLE MODE
-
+![SGP41 modul](https://cdn.myshoptet.com/usr/www.elecom.sk/user/shop/big/85585_sen-18345.jpg?686dc6ee)
 I've modified the existing source code to allow disabling the heater, which brings the idle power consumption down to under 50µA. For context, normal operation is around 4mA at startup and 3mA during measurement. There is also an option to disable the heater immediately upon device startup.
 
 *YAML:
